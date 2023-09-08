@@ -9,4 +9,4 @@ Alternatively you can check out [awc-helper-txt](https://github.com/Nyomdalee/aw
 It is my first time using Blazor (and ASP.NET, for that matter) so the code is undoubtedly jank.
 
 Data is up to date to:
-August 07, 2023
+August 29, 2023
