@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorClient.dll": "sha256-lnSBs5qDrHI6HI7B5ApWDYu528XKy+Fqz2c7Lgf74Mg=",
-      "BlazorShared.dll": "sha256-2hFFSYXR1P9k+0k\/TmF4XGf9gxWQ1q3CC89dLo9a9lk=",
+      "BlazorClient.dll": "sha256-yV1DX+5dxzzqSfQz8KT7QkxG5Bwpw+6LuuzihzVm6i8=",
+      "BlazorShared.dll": "sha256-dcOvKlXyulYEIbmznW3HefW6M3H\/KRM5vnNG\/21PsgU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-kPWjYaGv\/00oOAQL8iwF52n0q0ZKxkR20pU8r4hcRA4=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-gcMwcXs0dN68biGtOcsmo\/sWCC\/79b8Fy8Xoqb3CbiM=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-Wt7Lk+onnFBn8x6HNrwzegyQNzLZTAjvRv5+OF2s2p8=",
@@ -32,7 +32,7 @@
       "MudBlazor.dll": "sha256-5t7DFbdSRqspWqi5StpwKQ20NilVnuQop3\/A1ObJTS4=",
       "netstandard.dll": "sha256-YmW+R4t1R3pWs+feahGsEKzWoQwqi0qUORuECoQxe60=",
       "Newtonsoft.Json.dll": "sha256-IsZJ91\/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
-      "Shared.dll": "sha256-PFSesv2\/7pttKYJwih1hyuFnaB7fwDW93ivKYJVIokk=",
+      "Shared.dll": "sha256-W6MDaK61Y6E6tcfF4WaOdKMqxujkxPuoe0C0NawuFv4=",
       "System.Collections.Concurrent.dll": "sha256-wWyvvpVr+bXtcGwueeOBOSWRY6ARSZBsjxC\/t\/gw4Og=",
       "System.Collections.dll": "sha256-OJ7Fz+u\/ZyNK\/l3TkpZ8F+6c7lFwgcYyQOiroNkRH94=",
       "System.Collections.NonGeneric.dll": "sha256-QyCKaQV37SlVhzafq7Y2B0SPxQiuPzumHuuji9+6zHQ=",
