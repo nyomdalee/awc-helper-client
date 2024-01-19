@@ -1,6 +1,6 @@
 # awc-helper-client
 
-This project aims to provide a way to find anime for the [Anime Watching Challenge](https://myanimelist.net/forum/?topicid=2067484).
+This project aims to provide a way to find anime for the [Anime Watching Challenge](https://myanimelist.net/forum/?topicid=2138549).
 
 Hosted [here](https://nyomdalee.github.io/awc-helper-client/) on github pages.
 
