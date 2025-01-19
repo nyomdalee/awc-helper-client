@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MALSuite.Blazor.Wasm",
   "resources": {
-    "hash": "sha256-OdCVIWphFFYdJPWw0k2Wlvtu20OhrktoO53WdqBE7jI=",
+    "hash": "sha256-14GI2t3ufgkswZNL2y9MW38+k2iVErXE0gjF2Gi2rHo=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "MALSuite.Blazor.Core.wasm": "sha256-v1m7gS8JJ8OEEcxJmWOj0KwLpRBZAAp9i8iAy9mYOs0=",
-      "MALSuite.Blazor.Wasm.wasm": "sha256-KsR79ScOVSoqOdmWmCmkuGc+iSPA8+gBJh5bbWN47e0=",
+      "MALSuite.Blazor.Wasm.wasm": "sha256-U4zlJrDQ/h7TcBt61rKlf1d0jtRaJyabWNMQdMcjRy4=",
       "MALSuite.Core.wasm": "sha256-fcwRySYdZWDLOzjyrqghlMbD8vvfFLca9RxEO6L7tKU=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-DEI3E+mwaHIOJHjEu/uoK5NC8clfGxy1ZvEZRTO0zjI=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-tEXwv6TXvuLPKMpd51EwFjK06hT/U60fI6Q8xCxduZM=",
