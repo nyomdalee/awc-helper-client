@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MALSuite.Blazor.Wasm",
   "resources": {
-    "hash": "sha256-2A4YQz8iSsacG1E29iG50aL20s0gV8P6Wne10NNafAI=",
+    "hash": "sha256-b2nMgjK+uL7ozoTbL0oeolGL/ZqCEFLGZEBTKL7TKH4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "MALSuite.Blazor.Core.wasm": "sha256-yr4ExEP8OsbW7Mp3bXhdq6dRe28oAYObVhCLLjdK+xw=",
-      "MALSuite.Blazor.Wasm.wasm": "sha256-P+F/jaG9xPDrm9xVFejk3vFA+CG6LnLnIJy8EXYfgIs=",
+      "MALSuite.Blazor.Wasm.wasm": "sha256-naMyM88GEqkdeJcKKleJZFrEhER1MMN2OjO/Xw86oFo=",
       "MALSuite.Core.wasm": "sha256-BZZZtx1SB9q99WhT+7hSKCIZ/gSn6f9Lor+48FBRess=",
       "MessagePack.Annotations.wasm": "sha256-a7EIPFOV5b3b8KjZhbuBc+4m4jE5w9UMDhS+NRkq0NE=",
       "MessagePack.wasm": "sha256-YZESm7fDQwp6vNuEmwnaWkG9yb05y7/aGdAid+xGNDM=",
@@ -72,7 +72,7 @@
       "System.Linq.Queryable.wasm": "sha256-ZuOZvn0UDWS2NZ8eX8AtoDfpO3M4nUV3WkqwXKsiYKI=",
       "System.Linq.wasm": "sha256-DwaHUbfwiqxbKuIQVVuDEVk9N1ltmKHjShO25aToJZQ=",
       "System.Memory.wasm": "sha256-c3XeLE3jeXAa264UTzZmJtvD4WlYhICLNYHS8afY84I=",
-      "System.Net.Http.wasm": "sha256-3dZ3tcQK9L1l22jfpzcV5/NYd+71I3qnP+HBFrgMB8c=",
+      "System.Net.Http.wasm": "sha256-uaKsVAQ2t+k4i4qBkEtuhwOffIC1fnCJxrMp58BuojM=",
       "System.Net.NameResolution.wasm": "sha256-xzuBBkZmrZDZ+9xlRWHUlNwmBASksuL3eLJel3s7xXs=",
       "System.Net.Primitives.wasm": "sha256-r1nGN3P0iTUC7xf0r5O5sExSX1piF/nZizVAMDF+/iE=",
       "System.Numerics.Vectors.wasm": "sha256-q8Q+wINNHVfhXNniYigkmhEhWyZEJIbKXJxE9PaJu/Y=",
