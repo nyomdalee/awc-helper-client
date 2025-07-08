@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MALSuite.Blazor.Wasm",
   "resources": {
-    "hash": "sha256-27wqprhKFamIhmbo/V74ITOBqugaeLuc8icAeFgLDhw=",
+    "hash": "sha256-ikmLTwTwDHADfqmIlcjQ1qAgdGZh8eL68JPzndodXHg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-YyxJV6dv935qHoQAmjB+2qRjHeGpm4SyWxE0T/KvsIE="
     },
@@ -107,9 +107,9 @@
       "System.wasm": "sha256-ovI9fLxLRfh4RwNCi87t4luRVFfNap5GiBEwY0eh3bc=",
       "netstandard.wasm": "sha256-Dn8YY1qdrGHuElex7v/MnfRFXChG+Bjhl17NMMQMe04=",
       "System.Private.CoreLib.wasm": "sha256-sdHIoBjo/5Jlj1dBF3jzzVE8U6uXBLj9AKN7UDsuSCY=",
-      "MALSuite.Blazor.Core.wasm": "sha256-1tGb5nbn7ak3MjCK4jzReCjbySWiYPpGmNow6WWy/74=",
-      "MALSuite.Core.wasm": "sha256-G/oO0jUlRa39I7ztdYxSee5Nv8439tDBCPDd+nxgawA=",
-      "MALSuite.Blazor.Wasm.wasm": "sha256-0H52/2z7ZYEkqBmAIUZuvYc+WGL99fIilLXsIhy2YMM="
+      "MALSuite.Blazor.Core.wasm": "sha256-p2sbRQh0qsST3vI4z6D7qyx0WbjNoW4w6PdPfubaFUE=",
+      "MALSuite.Core.wasm": "sha256-EkADl4fZWGJfBZOhc5ysdeBMGxpqSWoZGNRmnFMlk34=",
+      "MALSuite.Blazor.Wasm.wasm": "sha256-CKWhprL5XxmLkBRf+oT55iBYzhcLoOAgCzX6QdJJFsE="
     },
     "satelliteResources": {
       "cs": {
