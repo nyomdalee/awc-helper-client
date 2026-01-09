@@ -1,0 +1,1908 @@
+﻿[right][b]Initial Post Number:[/b] #000 [/right]
+🧋 [b]Challenge Start Date:[/b] MONTH DAY, YEAR (e.g. January 09, 2026 - the earliest date you started an anime for the challenge)
+🧀 [b]Challenge Finish Date:[/b] MONTH DAY, YEAR (e.g. December 07, 2026 - the date you finished watching your last anime for the challenge)
+
+🌮 [b]Link to your completed anime list:[/b] https://myanimelist.net/animelist/YOUR_USERNAME?status=2
+🍫 [b]Link to your MAL Statistics:[/b] https://myanimelist.net/profile/YOUR_USERNAME/statistics
+🍉 [b]Link to your Anime+:[/b] https://anime.plus/YOUR_USERNAME
+
+🍪 [b]Completed Anime (on sign-up date):[/b] COMPLETED_ANIME
+🥗 [b]Time Zone:[/b] UTC/GMT_ZONE
+🍔 [b]Anime in Forum Avatar/Signature:[/b] ANIME_USED (put N/A if none)
+
+🥨 [b]Level:[/b] LEVEL_#
+🍕 [b]Link to turn-in form:[/b] (Only fill in once turn-in has been submitted)
+
+🍙 [b]Legend:[/b] [color=MEDIUMPURPLE][b]Watching[/b][/color] - [color=SEAGREEN][b]Completed[/b][/color] - [color=GRAY][b]Inactive/Plan to Watch[/b][/color]
+
+[center][size=110][b][url=https://myanimelist.net/anime.php]MAL Genre List[/url] | [url=https://github.com/nyomdalee/awc-helper-txt/tree/master/Anime%20by%20Start%20Month]Anime Sorted by Month[/url] | [url=https://github.com/nyomdalee/awc-helper-txt/tree/master/Anime%20by%20Source]Anime Sorted by Source[/url][/b][/size][/center]
+💬 [b]Challenge List:[/b][list=1]
+
+[center][color=#5B2C6F][b][size=190]COURSE #1[/size] 
+[size=140]COFFEE: AIRED SAME DAY[/size][/b][/color][/center] [spoiler="Course #1"]
+
+[color=#5B2C6F][b]Day Used :[/b][/color] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (73) Watch an anime with a Review that has at least four different reaction emojis
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Review Link:  | Review Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (74) Watch an anime where the difference between ranking and popularity is at least 1,000
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Ranking When Started:  | Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (80) Watch an anime with a popularity lower than #500
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Popularity When Started: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (86) Watch an anime with a score of 7.50 or below when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Score When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (143) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/4][b]Comedy[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (144) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/10][b]Fantasy[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#5B2C6F][b][size=190]COURSE #1[/size] 
+[size=140]TEA: MAL/ANIME+ RECS[/size][/b][/color][/center] [spoiler="Course #1"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (73) Watch an anime with a Review that has at least four different reaction emojis
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Review Link:  | Review Screenshot:  | MAL/Anime+ Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (80) Watch an anime with a popularity lower than #500
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Popularity When Started:  | MAL/Anime+ Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (84) Watch an anime with the numbers "2" or "6" in the score when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Score Screenshot: | MAL/Anime+ Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (143) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/4][b]Comedy[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][MAL/Anime+ Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (171) Watch an anime tagged with 2 Genres or more
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][MAL/Anime+ Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (174) Watch an anime rated PG-13 - Teens 13 or older
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][MAL/Anime+ Screenshot:  ][/color]
+[/spoiler]
+
+[center][color=#5B2C6F][b][size=190]COURSE #1[/size] 
+[size=140]SODA: SAME LICENSOR/PRODUCER/STUDIO[/size][/b][/color][/center] [spoiler="Course #1"]
+
+[color=#5B2C6F][b]Licensor/Producer/Studio Used :[/b][/color] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (73) Watch an anime with a Review that has at least four different reaction emojis
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Review Link:  | Review Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (80) Watch an anime with a popularity lower than #500
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (86) Watch an anime with a score of 7.50 or below when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Score When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (136) Watch an anime that has no Opening Theme and no Ending Theme listed on MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (143) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/4][b]Comedy[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (174) Watch an anime rated PG-13 - Teens 13 or older
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#5B2C6F][b][size=190]COURSE #1[/size] 
+[size=140]LEMONADE: TITLE 5+ WORDS[/size][/b][/color][/center] [spoiler="Course #1"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (80) Watch an anime with a popularity lower than #500
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (84) Watch an anime with the numbers "2" or "6" in the score when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#5B2C6F][Score Screenshot: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (119) Watch an anime from [url=https://myanimelist.net/anime/producer/493][b]Aniplex of America[/b][/url], [url=https://myanimelist.net/anime/producer/1696][b]Kadokawa[/b][/url] or [url=https://myanimelist.net/anime/producer/10][b]Production I.G[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (126) Watch an anime from [url=https://myanimelist.net/anime/producer/56][b]A-1 Pictures[/b][/url], [url=https://myanimelist.net/anime/producer/238][b]AT-X[/b][/url], [url=https://myanimelist.net/anime/producer/1468][b]Crunchyroll[/b][/url] or [url=https://myanimelist.net/anime/producer/306][b]Magic Capsule[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (143) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/4][b]Comedy[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (181) Watch an anime adapted from a [b]Book[/b] or [b]Light Novel[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#3B6C4C][b][size=190]COURSE #2[/size] 
+[size=140]SOUP: SAME DEMOGRAPHIC[/size][/b][/color][/center] [spoiler="Course #2"]
+
+[color=#3B6C4C][b]Demographic Used :[/b][/color] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (8) Watch an anime [u]after[/u] a 2026 participant watched 1 or more eps and dropped or put it on-hold September 30, 2025 or earlier
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][AWC Participant:  | Their Post Link:  | Screenshot of Their Dropped/On-Hold:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (12) Watch an ONA, OVA, or Special that has 10+ episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (33) Watch an anime that started airing on a [b]Friday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (39) Watch an anime that started airing in [b]April[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (43) Watch an anime that started airing in [b]August[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (48) Watch an anime that began airing the same [b]year[/b] you joined MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Join Year:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (52) Watch an anime with 7 or more words (not symbols and numbers) in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (76) Watch an anime that finished airing before starting the item and has less than 50,000 Completed members on their Stats page
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Completed Members When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (77) Watch an anime with 10 or more episodes that has a synopsis by MAL Rewrite
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (89) Watch an anime that has an [url=https://www.anime-planet.com/characters/tags/inanimate-objects][b]Inanimate Object[/b][/url] as a character
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (95) Watch an anime that has a main character with majority blue, green, pink, or purple [url=https://anidb.net/tag/12/chartb][b]hair color[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (104) Watch an anime that is from a Licensor/Producer/Studio starting with B or O
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (107) Watch an anime that is from a Licensor/Producer/Studio starting with G or L
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (114) Watch an anime from [url=https://myanimelist.net/anime/producer/102][b]Funimation[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (118) Watch an anime from [url=https://myanimelist.net/anime/producer/17][b]Aniplex[/b][/url], [url=https://myanimelist.net/anime/producer/37][b]Studio Deen[/b][/url] or [url=https://myanimelist.net/anime/producer/1727][b]Tencent Video[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (121) Watch an anime from [url=https://myanimelist.net/anime/producer/1414][b]bilibili[/b][/url], [url=https://myanimelist.net/anime/producer/169][b]Fuji TV[/b][/url] or [url=https://myanimelist.net/anime/producer/144][b]Pony Canyon[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (129) Watch an anime suggested to you by MAL or by Anime+ and provide a [url=https://myanimelist.net/forum/?goto=post&topicid=1869539&id=68336127][b]screenshot[/b][/url] including your username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Screenshot Showing Username: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (140) Watch an anime with a listed Voice Actor who is also credited with a Theme/Insert Song Performance in the anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Voice Actor: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (141) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/1][b]Action[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (150) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/36][b]Slice of Life[/b][/url] or [url=https://myanimelist.net/anime/genre/37][b]Supernatural[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (177) Watch an anime adapted from a [b]Manga[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#3B6C4C][b][size=190]COURSE #2[/size] 
+[size=140]SALAD: MEAN SCORE 7.50 OR LESS[/size][/b][/color][/center] [spoiler="Course #2"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (12) Watch an ONA, OVA, or Special that has 10+ episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (20) Watch an anime with 52 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (28) Watch an anime that  began airing between Jan 1, 1960 and Dec 31, 1989
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (32) Watch an anime that started airing on a [b]Thursday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (37) Watch an anime that started airing in [b]February[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (39) Watch an anime that started airing in [b]April[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (54) Watch an anime that has a one-word main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (59) Watch an anime that uses an English or Japanese animal in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Animal Used:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (68) Watch an anime that has a main title starting with H, L, Q, or Y
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (70) Watch an anime that is tagged with one of your [u]two lowest ranked[/u] Genres/Themes/Demographics by Weighted Score according to your MAL statistics
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Lowest Ranked G/T/D 1:  | Lowest Ranked G/T/D 2:  | MAL Stats Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (94) Watch an anime where the same Voice Actor is credited under at least two different characters
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Voice Actor 1:  | Character 1:  | Character 2:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (104) Watch an anime that is from a Licensor/Producer/Studio starting with B or O
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (121) Watch an anime from [url=https://myanimelist.net/anime/producer/1414][b]bilibili[/b][/url], [url=https://myanimelist.net/anime/producer/169][b]Fuji TV[/b][/url] or [url=https://myanimelist.net/anime/producer/144][b]Pony Canyon[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (133) Watch an anime that began airing the same season and year as one that was previously watched and listed in your MAL favorites
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][MAL Favorite:  | Season/Year:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (140) Watch an anime with a listed Voice Actor who is also credited with a Theme/Insert Song Performance in the anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Voice Actor:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (161) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/59][b]High Stakes Game[/b][/url], [url=https://myanimelist.net/anime/genre/6][b]Mythology[/b][/url] or [url=https://myanimelist.net/anime/genre/68][b]Organized Crime[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (162) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/60][b]Idols (Female)[/b][/url], [url=https://myanimelist.net/anime/genre/66][b]Mahou Shoujo[/b][/url] or [url=https://myanimelist.net/anime/genre/72][b]Reincarnation[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (164) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/43][b]Josei[/b][/url], [url=https://myanimelist.net/anime/genre/71][b]Pets[/b][/url] or [url=https://myanimelist.net/anime/genre/25][b]Shoujo[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (169) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/21][b]Samurai[/b][/url], [url=https://myanimelist.net/anime/genre/11][b]Strategy Game[/b][/url] or [url=https://myanimelist.net/anime/genre/48][b]Workplace[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (175) Watch an anime rated R -17+, R+ - Mild Nudity, or Rx - Hentai
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (182) Watch an anime adapted from a [b]Mixed Media[/b] or [b]Visual Novel[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#3B6C4C][b][size=190]COURSE #2[/size] 
+[size=140]GYOZA: EPISODE DURATION OF 23 MINS OR MORE[/size][/b][/color][/center] [spoiler="Course #2"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (2) Watch an anime from a [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129][b]Stack[/b][/url] provided by an active AWC Staff Member
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][AWC Staff Stack:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (8) Watch an anime [u]after[/u] a 2026 participant watched 1 or more eps and dropped or put it on-hold September 30, 2025 or earlier
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][AWC Participant:  | Their Post Link:  | Screenshot of Their Dropped/On-Hold:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (19) Watch an anime with 40 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (28) Watch an anime that  began airing between Jan 1, 1960 and Dec 31, 1989
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (37) Watch an anime that started airing in [b]February[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (44) Watch an anime that started airing in [b]September[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (48) Watch an anime that began airing the same [b]year[/b] you joined MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Join Year:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (54) Watch an anime that has a one-word main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (69) Watch an anime that has a main title starting with K, V, W, or a number/symbol
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (70) Watch an anime that is tagged with one of your [u]two lowest ranked[/u] Genres/Themes/Demographics by Weighted Score according to your MAL statistics
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Lowest Ranked G/T/D 1:  | Lowest Ranked G/T/D 2:  | MAL Stats Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (100) Watch an anime by a studio you haven't seen anything from (studio cannot be listed as producer)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (109) Watch an anime that is from a Licensor/Producer/Studio starting with M or X
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (118) Watch an anime from [url=https://myanimelist.net/anime/producer/17][b]Aniplex[/b][/url], [url=https://myanimelist.net/anime/producer/37][b]Studio Deen[/b][/url] or [url=https://myanimelist.net/anime/producer/1727][b]Tencent Video[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (129) Watch an anime suggested to you by MAL or by Anime+ and provide a [url=https://myanimelist.net/forum/?goto=post&topicid=1869539&id=68336127][b]screenshot[/b][/url] including your username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Screenshot Showing Username: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (146) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/15][b]Kids[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (161) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/59][b]High Stakes Game[/b][/url], [url=https://myanimelist.net/anime/genre/6][b]Mythology[/b][/url] or [url=https://myanimelist.net/anime/genre/68][b]Organized Crime[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (164) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/43][b]Josei[/b][/url], [url=https://myanimelist.net/anime/genre/71][b]Pets[/b][/url] or [url=https://myanimelist.net/anime/genre/25][b]Shoujo[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (169) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/21][b]Samurai[/b][/url], [url=https://myanimelist.net/anime/genre/11][b]Strategy Game[/b][/url] or [url=https://myanimelist.net/anime/genre/48][b]Workplace[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (170) Watch an anime tagged with at least TWO of the following: [url=https://myanimelist.net/anime/genre/8][b]Drama[/b][/url], [url=https://myanimelist.net/anime/genre/22][b]Romance[/b][/url], [url=https://myanimelist.net/anime/genre/23][b]School[/b][/url], [url=https://myanimelist.net/anime/genre/24][b]Sci-Fi[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Tagged With 1:  | Tagged With 2:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (177) Watch an anime adapted from a [b]Manga[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (189) Watch an anime that is listed in the [url=https://anidb.net/tag/2669][b]School Clubs[/b][/url] tag on AniDB
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#3B6C4C][b][size=190]COURSE #2[/size] 
+[size=140]SPRING ROLLS: AIRED IN SAME MONTH[/size][/b][/color][/center] [spoiler="Course #2"]
+
+[color=#3B6C4C][b]Month Used :[/b][/color] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (8) Watch an anime [u]after[/u] a 2026 participant watched 1 or more eps and dropped or put it on-hold September 30, 2025 or earlier
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][AWC Participant:  | Their Post Link:  | Screenshot of Their Dropped/On-Hold:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (28) Watch an anime that  began airing between Jan 1, 1960 and Dec 31, 1989
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (52) Watch an anime with 7 or more words (not symbols and numbers) in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (54) Watch an anime that has a one-word main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (69) Watch an anime that has a main title starting with K, V, W, or a number/symbol
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (76) Watch an anime that finished airing before starting the item and has less than 50,000 Completed members on their Stats page
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Completed Members When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (77) Watch an anime with 10 or more episodes that has a synopsis by MAL Rewrite
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (83) Watch an anime with a popularity lower than #4015
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (89) Watch an anime that has an [url=https://www.anime-planet.com/characters/tags/inanimate-objects][b]Inanimate Object[/b][/url] as a character
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (95) Watch an anime that has a main character with majority blue, green, pink, or purple [url=https://anidb.net/tag/12/chartb][b]hair color[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (112) Watch an anime that is from a Licensor/Producer/Studio starting with K, Q, or U
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (118) Watch an anime from [url=https://myanimelist.net/anime/producer/17][b]Aniplex[/b][/url], [url=https://myanimelist.net/anime/producer/37][b]Studio Deen[/b][/url] or [url=https://myanimelist.net/anime/producer/1727][b]Tencent Video[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (121) Watch an anime from [url=https://myanimelist.net/anime/producer/1414][b]bilibili[/b][/url], [url=https://myanimelist.net/anime/producer/169][b]Fuji TV[/b][/url] or [url=https://myanimelist.net/anime/producer/144][b]Pony Canyon[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (133) Watch an anime that began airing the same season and year as one that was previously watched and listed in your MAL favorites
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][MAL Favorite:  | Season/Year:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (140) Watch an anime with a listed Voice Actor who is also credited with a Theme/Insert Song Performance in the anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Voice Actor:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (141) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/1][b]Action[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (146) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/15][b]Kids[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (150) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/36][b]Slice of Life[/b][/url] or [url=https://myanimelist.net/anime/genre/37][b]Supernatural[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (161) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/59][b]High Stakes Game[/b][/url], [url=https://myanimelist.net/anime/genre/6][b]Mythology[/b][/url] or [url=https://myanimelist.net/anime/genre/68][b]Organized Crime[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (175) Watch an anime rated R -17+, R+ - Mild Nudity, or Rx - Hentai
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (177) Watch an anime adapted from a [b]Manga[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#3B6C4C][b][size=190]COURSE #2[/size] 
+[size=140]PRAWNS: STARTED AIRING BETWEEN 2000 AND 2009[/size][/b][/color][/center] [spoiler="Course #2"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (19) Watch an anime with 40 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (33) Watch an anime that started airing on a [b]Friday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (39) Watch an anime that started airing in [b]April[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (43) Watch an anime that started airing in [b]August[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (52) Watch an anime with 7 or more words (not symbols and numbers) in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (54) Watch an anime that has a one-word main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (68) Watch an anime that has a main title starting with H, L, Q, or Y
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (76) Watch an anime that finished airing before starting the item and has less than 50,000 Completed members on their Stats page
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Completed Members When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (77) Watch an anime with 10 or more episodes that has a synopsis by MAL Rewrite
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (83) Watch an anime with a popularity lower than #4015
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (95) Watch an anime that has a main character with majority blue, green, pink, or purple [url=https://anidb.net/tag/12/chartb][b]hair color[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (104) Watch an anime that is from a Licensor/Producer/Studio starting with B or O
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (107) Watch an anime that is from a Licensor/Producer/Studio starting with G or L
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (120) Watch an anime from [url=https://myanimelist.net/anime/producer/233][b]Bandai Entertainment[/b][/url], [url=https://myanimelist.net/anime/producer/467][b]Discotek Media[/b][/url] or [url=https://myanimelist.net/anime/producer/7][b]J.C.Staff[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (141) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/1][b]Action[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (146) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/15][b]Kids[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (150) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/36][b]Slice of Life[/b][/url] or [url=https://myanimelist.net/anime/genre/37][b]Supernatural[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (170) Watch an anime tagged with at least TWO of the following: [url=https://myanimelist.net/anime/genre/8][b]Drama[/b][/url], [url=https://myanimelist.net/anime/genre/22][b]Romance[/b][/url], [url=https://myanimelist.net/anime/genre/23][b]School[/b][/url], [url=https://myanimelist.net/anime/genre/24][b]Sci-Fi[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Tagged With 1:  | Tagged With 2:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (175) Watch an anime rated R -17+, R+ - Mild Nudity, or Rx - Hentai
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (177) Watch an anime adapted from a [b]Manga[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (182) Watch an anime adapted from a [b]Mixed Media[/b] or [b]Visual Novel[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#3B6C4C][b][size=190]COURSE #2[/size] 
+[size=140]CHICKEN WINGS: TV-TYPE ONLY[/size][/b][/color][/center] [spoiler="Course #2"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (2) Watch an anime from a [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129][b]Stack[/b][/url] provided by an active AWC Staff Member
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][AWC Staff Stack:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (8) Watch an anime [u]after[/u] a 2026 participant watched 1 or more eps and dropped or put it on-hold September 30, 2025 or earlier
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][AWC Participant:  | Their Post Link:  | Screenshot of Their Dropped/On-Hold:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (10) Watch an anime a 2026 participant has listed in their 'Popularity vs Anime Score' profile statistics and provide a screenshot
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Participant:  | Their Post Link:  | Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (19) Watch an anime with 40 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (20) Watch an anime with 52 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (33) Watch an anime that started airing on a [b]Friday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (48) Watch an anime that began airing the same [b]year[/b] you joined MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (52) Watch an anime with 7 or more words (not symbols and numbers) in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (77) Watch an anime with 10 or more episodes that has a synopsis by MAL Rewrite
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (89) Watch an anime that has an [url=https://www.anime-planet.com/characters/tags/inanimate-objects][b]Inanimate Object[/b][/url] as a character
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (94) Watch an anime where the same Voice Actor is credited under at least two different characters
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Voice Actor 1:  | Character 1:  | Character 2:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (95) Watch an anime that has a main character with majority blue, green, pink, or purple [url=https://anidb.net/tag/12/chartb][b]hair color[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (109) Watch an anime that is from a Licensor/Producer/Studio starting with M or X
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (112) Watch an anime that is from a Licensor/Producer/Studio starting with K, Q, or U
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (114) Watch an anime from [url=https://myanimelist.net/anime/producer/102][b]Funimation[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (120) Watch an anime from [url=https://myanimelist.net/anime/producer/233][b]Bandai Entertainment[/b][/url], [url=https://myanimelist.net/anime/producer/467][b]Discotek Media[/b][/url] or [url=https://myanimelist.net/anime/producer/7][b]J.C.Staff[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (129) Watch an anime suggested to you by MAL or by Anime+ and provide a [url=https://myanimelist.net/forum/?goto=post&topicid=1869539&id=68336127][b]screenshot[/b][/url] including your username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+[color=#3B6C4C][Screenshot Showing Username: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (141) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/1][b]Action[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (170) Watch an anime tagged with at least TWO of the following: [url=https://myanimelist.net/anime/genre/8][b]Drama[/b][/url], [url=https://myanimelist.net/anime/genre/22][b]Romance[/b][/url], [url=https://myanimelist.net/anime/genre/23][b]School[/b][/url], [url=https://myanimelist.net/anime/genre/24][b]Sci-Fi[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#3B6C4C][Tagged With 1:  | Tagged With 2:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (175) Watch an anime rated R -17+, R+ - Mild Nudity, or Rx - Hentai
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (189) Watch an anime that is listed in the [url=https://anidb.net/tag/2669][b]School Clubs[/b][/url] tag on AniDB
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#943126][b][size=190]COURSE #3[/size] 
+[size=140]BURGER: MEAN SCORE OF 7.00 OR GREATER[/size][/b][/color][/center] [spoiler="Course #3"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (1) Watch an anime an active [url=https://myanimelist.net/forum/?topicid=1867298#msg60815692][b]MAL Staff Member[/b][/url] (not AWC Staff) has listed in their 'MAL Score vs Anime Score' profile statistics
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][MAL Staff:  | Screenshot: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (3) Watch an anime [u]after[/u] an [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129][b]AWC Staff Member[/b][/url] has completed and rated it 8.00 or higher
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][AWC Staff:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (9) Watch an anime featured in a 2026 participant's forum avatar or signature
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:  | Link to Their Post:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (16) Watch an anime with 10 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (17) Watch an anime with 17 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (23) Watch an anime that began airing between Jan 1, 2020 and Dec 31, 2025
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (25) Watch an anime that began airing between Jan 1, 2010 and Dec 31, 2014
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (34) Watch an anime that started airing on a [b]Saturday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (45) Watch an anime that started airing in [b]October[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (56) Watch an anime with at least two [u]different[/u] non-alphanumeric characters in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (61) Watch an anime with a main title that shares at least 3 different letters/numbers/symbols with your MAL username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (62) Watch an anime that has a main title starting with S or Z
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (63) Watch an anime that has a main title starting with A, G, or N
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (72) Watch an anime that was [url=https://myanimelist.net/reviews.php?t=anime][b]Reviewed[/b][/url] the same 2026 date you started it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Review Link:  | Review Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (82) Watch an anime with a popularity lower than #3211
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (91) Watch an anime with 8 or more main characters
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (93) Watch an anime with 3+ main characters that are of the same gender
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (97) Watch an anime in which a character wears [url=https://anidb.net/tag/2206][b]glasses[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (105) Watch an anime that is from a Licensor/Producer/Studio starting with D or R
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (128) Watch an anime listed on a 2026 participant's Anime+ recommendations
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:   | Their Post Link:   | Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (134) Watch an anime Recommended to one you [u]already completed[/u] and have listed in your MAL Favorites
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][MAL Favorite:  | Date Favorite Completed:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (139) Watch an anime in which 2+ [u]different[/u] Opening Theme and/or Ending Theme are performed by the same Artist/Group
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Artist/Group:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (149) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/13][b]Historical[/b][/url] or [url=https://myanimelist.net/anime/genre/27][b]Shounen[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (152) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/28][b]Boys Love[/b][/url], [url=https://myanimelist.net/anime/genre/7][b]Mystery[/b][/url] or [url=https://myanimelist.net/anime/genre/83][b]Villainess[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (168) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/47][b]Gourmet[/b][/url], [url=https://myanimelist.net/anime/genre/67][b]Medical[/b][/url] or [url=https://myanimelist.net/anime/genre/30][b]Sports[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (173) Watch an anime rated G - All Ages or PG - Children
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#943126][b][size=190]COURSE #3[/size] 
+[size=140]SUSHI: NON-ALPHANUMERIC CHARACTER IN MAIN TITLE[/size][/b][/color][/center] [spoiler="Course #3"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (3) Watch an anime [u]after[/u] an [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129][b]AWC Staff Member[/b][/url] has completed and rated it 8.00 or higher
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][AWC Staff:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (9) Watch an anime featured in a 2026 participant's forum avatar or signature
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:  | Link to Their Post:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (16) Watch an anime with 10 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (23) Watch an anime that began airing between Jan 1, 2020 and Dec 31, 2025
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (25) Watch an anime that began airing between Jan 1, 2010 and Dec 31, 2014
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (29) Watch an anime that started airing on a [b]Monday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (36) Watch an anime that started airing in [b]January[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (47) Watch an anime that started airing in [b]December[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (50) Watch an anime that began airing the same [b]day[/b] (eg. 18th) you joined MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Join Day:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (71) Watch an anime that has the number [url=https://github.com/nyomdalee/awc-helper-txt/tree/master/Anime%20by%20ID][b]26[/b][/url] in its MAL ID
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (72) Watch an anime that was [url=https://myanimelist.net/reviews.php?t=anime][b]Reviewed[/b][/url] the same 2026 date you started it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Review Link:  | Review Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (82) Watch an anime with a popularity lower than #3211
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (91) Watch an anime with 8 or more main characters
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (97) Watch an anime in which a character wears [url=https://anidb.net/tag/2206][b]glasses[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (99) Watch an anime by a studio with less than 45 anime in MAL's database
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (105) Watch an anime that is from a Licensor/Producer/Studio starting with D or R
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (108) Watch an anime that is from a Licensor/Producer/Studio starting with H or I
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (130) Watch an anime from one of your 5 lowest ranked studios sorted by Mean on Anime+
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Screenshot:  | Lowest Ranked Studios:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (134) Watch an anime Recommended to one you [u]already completed[/u] and have listed in your MAL Favorites
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][MAL Favorite:  | Date Favorite Completed:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (148) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/5][b]Avant Garde[/b][/url] or [url=https://myanimelist.net/anime/genre/42][b]Seinen[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (155) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/81][b]Crossdressing[/b][/url], [url=https://myanimelist.net/anime/genre/38][b]Military[/b][/url] or [url=https://myanimelist.net/anime/genre/80][b]Visual Arts[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (159) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/26][b]Girls Love[/b][/url], [url=https://myanimelist.net/anime/genre/14][b]Horror[/b][/url] or [url=https://myanimelist.net/anime/genre/70][b]Performing Arts[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (163) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/61][b]Idols (Male)[/b][/url], [url=https://myanimelist.net/anime/genre/62][b]Isekai[/b][/url] or [url=https://myanimelist.net/anime/genre/3][b]Racing[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (167) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/39][b]Detective[/b][/url], [url=https://myanimelist.net/anime/genre/63][b]Iyashikei[/b][/url] or [url=https://myanimelist.net/anime/genre/77][b]Team Sports[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (173) Watch an anime rated G - All Ages or PG - Children
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (187) Finish an anime that you watched at least one episode of and dropped/put on hold before September 30, 2025 (Alternatively: watch an anime provided by [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68342157][b]other participants[/b][/url])
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Original Anime Start Date:  | Last Watched Episode Date:  | Eps Previously Watched:  | Screenshot:  ][/color]
+[If you choose an anime from the provided list, remove this line and the one above it; if you watch a dropped/on hold remove this line]
+[/spoiler]
+
+[center][color=#943126][b][size=190]COURSE #3[/size] 
+[size=140]SPAGHETTI: PG-13 RATING[/size][/b][/color][/center] [spoiler="Course #3"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (3) Watch an anime [u]after[/u] an [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129][b]AWC Staff Member[/b][/url] has completed and rated it 8.00 or higher
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][AWC Staff:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (16) Watch an anime with 10 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (21) Watch a TV-type anime with a direct Sequel listed under Related Entries
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (22) Watch a Sequel (any anime type) to the anime used for Item (21)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (25) Watch an anime that began airing between Jan 1, 2010 and Dec 31, 2014
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (46) Watch an anime that started airing in [b]November[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (47) Watch an anime that started airing in [b]December[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (50) Watch an anime that began airing the same [b]day[/b] (eg. 18th) you joined MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Join Day:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (56) Watch an anime with at least two [u]different[/u] non-alphanumeric characters in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (58) Watch an anime that uses an English or Japanese color in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Color Used:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (61) Watch an anime with a main title that shares at least 3 different letters/numbers/symbols with your MAL username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (62) Watch an anime that has a main title starting with S or Z
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (79) Watch an anime that has a higher score than a listed Adaptation under Related Anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Anime Score:  | Adaptation Score:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (82) Watch an anime with a popularity lower than #3211
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (85) Watch an anime with a score of 7.85 or above when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Score When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (91) Watch an anime with 8 or more main characters
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (97) Watch an anime in which a character wears [url=https://anidb.net/tag/2206][b]glasses[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+[color=#943126][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (113) Watch an anime that is from a Licensor/Producer/Studio starting with N, V, or W
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (117) Watch an anime from [url=https://myanimelist.net/anime/producer/28][b]OLM[/b][/url] or [url=https://myanimelist.net/anime/producer/18][b]Toei Animation[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (125) Watch an anime from [url=https://myanimelist.net/anime/producer/1][b]Studio Pierrot[/b][/url], [url=https://myanimelist.net/anime/producer/103][b]Tatsunoko Production[/b][/url] or [url=https://myanimelist.net/anime/producer/16][b]TV Tokyo[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (139) Watch an anime in which 2+ [u]different[/u] Opening Theme and/or Ending Theme are performed by the same Artist/Group
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Artist/Group:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (148) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/5][b]Avant Garde[/b][/url] or [url=https://myanimelist.net/anime/genre/42][b]Seinen[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (149) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/13][b]Historical[/b][/url] or [url=https://myanimelist.net/anime/genre/27][b]Shounen[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (151) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/50][b]Adult Cast[/b][/url], [url=https://myanimelist.net/anime/genre/73][b]Reverse Harem[/b][/url] or [url=https://myanimelist.net/anime/genre/75][b]Showbiz[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (155) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/81][b]Crossdressing[/b][/url], [url=https://myanimelist.net/anime/genre/38][b]Military[/b][/url] or [url=https://myanimelist.net/anime/genre/80][b]Visual Arts[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (176) Watch an anime adapted from a [b]Game[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#943126][b][size=190]COURSE #3[/size] 
+[size=140]PIZZA: 3+ HOURS WATCH TIME[/size][/b][/color][/center] [spoiler="Course #3"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (1) Watch an anime an active [url=https://myanimelist.net/forum/?topicid=1867298#msg60815692][b]MAL Staff Member[/b][/url] (not AWC Staff) has listed in their 'MAL Score vs Anime Score' profile statistics
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][MAL Staff:  | Screenshot: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (11) Watch a TV-type anime with an episode duration of [url=https://github.com/nyomdalee/awc-helper-txt/blob/master/Anime%20by%20Episode%20Duration/TV%20type%20with%20episode%20duration%20of%2025min%20or%20more.txt][b]25 minutes[/b][/url] or more
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (17) Watch an anime with 17 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (21) Watch a TV-type anime with a direct Sequel listed under Related Entries
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (22) Watch a Sequel (any anime type) to the anime used for Item (21)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (23) Watch an anime that began airing between Jan 1, 2020 and Dec 31, 2025
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (29) Watch an anime that started airing on a [b]Monday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (36) Watch an anime that started airing in [b]January[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (56) Watch an anime with at least two [u]different[/u] non-alphanumeric characters in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (58) Watch an anime that uses an English or Japanese color in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Color Used:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (61) Watch an anime with a main title that shares at least 3 different letters/numbers/symbols with your MAL username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (62) Watch an anime that has a main title starting with S or Z
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (63) Watch an anime that has a main title starting with A, G, or N
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (91) Watch an anime with 8 or more main characters
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (111) Watch an anime that is from a Licensor/Producer/Studio starting with F, J, or Y
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (113) Watch an anime that is from a Licensor/Producer/Studio starting with N, V, or W
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (117) Watch an anime from [url=https://myanimelist.net/anime/producer/28][b]OLM[/b][/url] or [url=https://myanimelist.net/anime/producer/18][b]Toei Animation[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (124) Watch an anime from [url=https://myanimelist.net/anime/producer/104][b]Lantis[/b][/url], [url=https://myanimelist.net/anime/producer/11][b]Madhouse[/b][/url] or [url=https://myanimelist.net/anime/producer/145][b]TBS[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (128) Watch an anime listed on a 2026 participant's Anime+ recommendations
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:   | Their Post Link:   | Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (135) Watch an anime in which one of the People listed in your MAL Favorites participated
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Favorite Person:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (139) Watch an anime in which 2+ [u]different[/u] Opening Theme and/or Ending Theme are performed by the same Artist/Group
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Artist/Group:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (149) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/13][b]Historical[/b][/url] or [url=https://myanimelist.net/anime/genre/27][b]Shounen[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (151) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/50][b]Adult Cast[/b][/url], [url=https://myanimelist.net/anime/genre/73][b]Reverse Harem[/b][/url] or [url=https://myanimelist.net/anime/genre/75][b]Showbiz[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (173) Watch an anime rated G - All Ages or PG - Children
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (176) Watch an anime adapted from a [b]Game[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (184) Watch an anime adapted from an [b]Other[/b] or [b]Web Novel[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#943126][b][size=190]COURSE #3[/size] 
+[size=140]LASAGNA: AIRED SAME SEASON[/size][/b][/color][/center] [spoiler="Course #3"]
+
+[color=#943126][b]Season Used :[/b][/color] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (1) Watch an anime an active [url=https://myanimelist.net/forum/?topicid=1867298#msg60815692][b]MAL Staff Member[/b][/url] (not AWC Staff) has listed in their 'MAL Score vs Anime Score' profile statistics
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][MAL Staff:  | Screenshot: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (6) Watch an anime [u]after[/u] a 2026 participant with a [url=https://myanimelist.net/forum/?topicid=2245806][b]sign-up post[/b][/url] on page 1-3 completed and rated it 9.00 or higher
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:  | Link to Their Post:  | Link to Their Completed List: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (11) Watch a TV-type anime with an episode duration of [url=https://github.com/nyomdalee/awc-helper-txt/blob/master/Anime%20by%20Episode%20Duration/TV%20type%20with%20episode%20duration%20of%2025min%20or%20more.txt][b]25 minutes[/b][/url] or more
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (16) Watch an anime with 10 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (17) Watch an anime with 17 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (25) Watch an anime that began airing between Jan 1, 2010 and Dec 31, 2014
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (34) Watch an anime that started airing on a [b]Saturday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (51) Watch an anime that has a main title starting with the same letter/number/character as your MAL username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (58) Watch an anime that uses an English or Japanese color in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Color Used:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (63) Watch an anime that has a main title starting with A, G, or N
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (79) Watch an anime that has a higher score than a listed Adaptation under Related Anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Anime Score:  | Adaptation Score:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (85) Watch an anime with a score of 7.85 or above when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Score When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (93) Watch an anime with 3+ main characters that are of the same gender
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (111) Watch an anime that is from a Licensor/Producer/Studio starting with F, J, or Y
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (113) Watch an anime that is from a Licensor/Producer/Studio starting with N, V, or W
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (124) Watch an anime from [url=https://myanimelist.net/anime/producer/104][b]Lantis[/b][/url], [url=https://myanimelist.net/anime/producer/11][b]Madhouse[/b][/url] or [url=https://myanimelist.net/anime/producer/145][b]TBS[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (125) Watch an anime from [url=https://myanimelist.net/anime/producer/1][b]Studio Pierrot[/b][/url], [url=https://myanimelist.net/anime/producer/103][b]Tatsunoko Production[/b][/url] or [url=https://myanimelist.net/anime/producer/16][b]TV Tokyo[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (134) Watch an anime Recommended to one you [u]already completed[/u] and have listed in your MAL Favorites
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][MAL Favorite:  | Date Favorite Completed:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (135) Watch an anime in which one of the People listed in your MAL Favorites participated
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Favorite Person:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (149) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/13][b]Historical[/b][/url] or [url=https://myanimelist.net/anime/genre/27][b]Shounen[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (151) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/50][b]Adult Cast[/b][/url], [url=https://myanimelist.net/anime/genre/73][b]Reverse Harem[/b][/url] or [url=https://myanimelist.net/anime/genre/75][b]Showbiz[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (153) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/53][b]Childcare[/b][/url], [url=https://myanimelist.net/anime/genre/20][b]Parody[/b][/url] or [url=https://myanimelist.net/anime/genre/65][b]Magical Sex Shift[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (167) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/39][b]Detective[/b][/url], [url=https://myanimelist.net/anime/genre/63][b]Iyashikei[/b][/url] or [url=https://myanimelist.net/anime/genre/77][b]Team Sports[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (168) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/47][b]Gourmet[/b][/url], [url=https://myanimelist.net/anime/genre/67][b]Medical[/b][/url] or [url=https://myanimelist.net/anime/genre/30][b]Sports[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (173) Watch an anime rated G - All Ages or PG - Children
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (184) Watch an anime adapted from an [b]Other[/b] or [b]Web Novel[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#943126][b][size=190]COURSE #3[/size] 
+[size=140]SANDWICH: SAME NUMBER OF EPISODES[/size][/b][/color][/center] [spoiler="Course #3"]
+
+[color=#943126][b]Number of Episodes Used :[/b][/color] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (6) Watch an anime [u]after[/u] a 2026 participant with a [url=https://myanimelist.net/forum/?topicid=2245806][b]sign-up post[/b][/url] on page 1-3 completed and rated it 9.00 or higher
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:  | Link to Their Post:  | Link to Their Completed List: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (23) Watch an anime that began airing between Jan 1, 2020 and Dec 31, 2025
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (29) Watch an anime that started airing on a [b]Monday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (45) Watch an anime that started airing in [b]October[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (46) Watch an anime that started airing in [b]November[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (50) Watch an anime that began airing the same [b]day[/b] (eg. 18th) you joined MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Join Day:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (51) Watch an anime that has a main title starting with the same letter/number/character as your MAL username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (61) Watch an anime with a main title that shares at least 3 different letters/numbers/symbols with your MAL username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (62) Watch an anime that has a main title starting with S or Z
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (82) Watch an anime with a popularity lower than #3211
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (85) Watch an anime with a score of 7.85 or above when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Score When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (93) Watch an anime with 3+ main characters that are of the same gender
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (108) Watch an anime that is from a Licensor/Producer/Studio starting with H or I
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (117) Watch an anime from [url=https://myanimelist.net/anime/producer/28][b]OLM[/b][/url] or [url=https://myanimelist.net/anime/producer/18][b]Toei Animation[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (125) Watch an anime from [url=https://myanimelist.net/anime/producer/1][b]Studio Pierrot[/b][/url], [url=https://myanimelist.net/anime/producer/103][b]Tatsunoko Production[/b][/url] or [url=https://myanimelist.net/anime/producer/16][b]TV Tokyo[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (128) Watch an anime listed on a 2026 participant's Anime+ recommendations
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:   | Their Post Link:   | Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (131) Watch an anime tagged with your lowest scored genre/theme/demographic sorted by Mean according to Anime+
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+[color=#943126][Lowest G/T/D by Mean:  | Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (134) Watch an anime Recommended to one you [u]already completed[/u] and have listed in your MAL Favorites
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][MAL Favorite:  | Date Favorite Completed:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (135) Watch an anime in which one of the People listed in your MAL Favorites participated
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Favorite Person:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (148) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/5][b]Avant Garde[/b][/url] or [url=https://myanimelist.net/anime/genre/42][b]Seinen[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (153) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/53][b]Childcare[/b][/url], [url=https://myanimelist.net/anime/genre/20][b]Parody[/b][/url] or [url=https://myanimelist.net/anime/genre/65][b]Magical Sex Shift[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (155) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/81][b]Crossdressing[/b][/url], [url=https://myanimelist.net/anime/genre/38][b]Military[/b][/url] or [url=https://myanimelist.net/anime/genre/80][b]Visual Arts[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (159) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/26][b]Girls Love[/b][/url], [url=https://myanimelist.net/anime/genre/14][b]Horror[/b][/url] or [url=https://myanimelist.net/anime/genre/70][b]Performing Arts[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (167) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/39][b]Detective[/b][/url], [url=https://myanimelist.net/anime/genre/63][b]Iyashikei[/b][/url] or [url=https://myanimelist.net/anime/genre/77][b]Team Sports[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (184) Watch an anime adapted from an [b]Other[/b] or [b]Web Novel[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (187) Finish an anime that you watched at least one episode of and dropped/put on hold before September 30, 2025 (Alternatively: watch an anime provided by [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68342157][b]other participants[/b][/url])
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Original Anime Start Date:  | Last Watched Episode Date:  | Eps Previously Watched:  | Screenshot:  ][/color]
+[If you choose an anime from the provided list, remove this line and the one above it; if you watch a dropped/on hold remove this line]
+[/spoiler]
+
+[center][color=#943126][b][size=190]COURSE #3[/size] 
+[size=140]OMURICE: STARTED AIRING BETWEEN 2021 and 2026[/size][/b][/color][/center] [spoiler="Course #3"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (3) Watch an anime [u]after[/u] an [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129][b]AWC Staff Member[/b][/url] has completed and rated it 8.00 or higher
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][AWC Staff:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (6) Watch an anime [u]after[/u] a 2026 participant with a [url=https://myanimelist.net/forum/?topicid=2245806][b]sign-up post[/b][/url] on page 1-3 completed and rated it 9.00 or higher
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:  | Link to Their Post:  | Link to Their Completed List: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (16) Watch an anime with 10 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (17) Watch an anime with 17 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (21) Watch a TV-type anime with a direct Sequel listed under Related Entries
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (22) Watch a Sequel (any anime type) to the anime used for Item (21)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (29) Watch an anime that started airing on a [b]Monday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (34) Watch an anime that started airing on a [b]Saturday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (36) Watch an anime that started airing in [b]January[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (45) Watch an anime that started airing in [b]October[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (47) Watch an anime that started airing in [b]December[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (56) Watch an anime with at least two [u]different[/u] non-alphanumeric characters in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (62) Watch an anime that has a main title starting with S or Z
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (63) Watch an anime that has a main title starting with A, G, or N
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (79) Watch an anime that has a higher score than a listed Adaptation under Related Anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Anime Score:  | Adaptation Score:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (82) Watch an anime with a popularity lower than #3211
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (91) Watch an anime with 8 or more main characters
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (93) Watch an anime with 3+ main characters that are of the same gender
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (97) Watch an anime in which a character wears [url=https://anidb.net/tag/2206][b]glasses[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (111) Watch an anime that is from a Licensor/Producer/Studio starting with F, J, or Y
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (113) Watch an anime that is from a Licensor/Producer/Studio starting with N, V, or W
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (128) Watch an anime listed on a 2026 participant's Anime+ recommendations
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:   | Their Post Link:   | Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (139) Watch an anime in which 2+ [u]different[/u] Opening Theme and/or Ending Theme are performed by the same Artist/Group
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Artist/Group:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (149) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/13][b]Historical[/b][/url] or [url=https://myanimelist.net/anime/genre/27][b]Shounen[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (173) Watch an anime rated G - All Ages or PG - Children
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (176) Watch an anime adapted from a [b]Game[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#943126][b][size=190]COURSE #3[/size] 
+[size=140]FISH & CHIPS: SHARED GENRE/THEME[/size][/b][/color][/center] [spoiler="Course #3"]
+
+[color=#943126][b]Genre/Theme #1 Used :[/b][/color] 
+[color=#943126][b]Genre/Theme #2 Used :[/b][/color] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (3) Watch an anime [u]after[/u] an [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129][b]AWC Staff Member[/b][/url] has completed and rated it 8.00 or higher
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][AWC Staff:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (6) Watch an anime [u]after[/u] a 2026 participant with a [url=https://myanimelist.net/forum/?topicid=2245806][b]sign-up post[/b][/url] on page 1-3 completed and rated it 9.00 or higher
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:  | Link to Their Post:  | Link to Their Completed List: ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (17) Watch an anime with 17 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (21) Watch a TV-type anime with a direct Sequel listed under Related Entries
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (22) Watch a Sequel (any anime type) to the anime used for Item (21)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (23) Watch an anime that began airing between Jan 1, 2020 and Dec 31, 2025
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (25) Watch an anime that began airing between Jan 1, 2010 and Dec 31, 2014
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (29) Watch an anime that started airing on a [b]Monday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (34) Watch an anime that started airing on a [b]Saturday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (45) Watch an anime that started airing in [b]October[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (47) Watch an anime that started airing in [b]December[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (50) Watch an anime that began airing the same [b]day[/b] (eg. 18th) you joined MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Join Day:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (56) Watch an anime with at least two [u]different[/u] non-alphanumeric characters in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (71) Watch an anime that has the number [url=https://github.com/nyomdalee/awc-helper-txt/tree/master/Anime%20by%20ID][b]26[/b][/url] in its MAL ID
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (79) Watch an anime that has a higher score than a listed Adaptation under Related Anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Anime Score:  | Adaptation Score:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (82) Watch an anime with a popularity lower than #3211
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (85) Watch an anime with a score of 7.85 or above when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+[color=#943126][Score When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (93) Watch an anime with 3+ main characters that are of the same gender
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (97) Watch an anime in which a character wears [url=https://anidb.net/tag/2206][b]glasses[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (99) Watch an anime by a studio with less than 45 anime in MAL's database
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (105) Watch an anime that is from a Licensor/Producer/Studio starting with D or R
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (111) Watch an anime that is from a Licensor/Producer/Studio starting with F, J, or Y
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (117) Watch an anime from [url=https://myanimelist.net/anime/producer/28][b]OLM[/b][/url] or [url=https://myanimelist.net/anime/producer/18][b]Toei Animation[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (124) Watch an anime from [url=https://myanimelist.net/anime/producer/104][b]Lantis[/b][/url], [url=https://myanimelist.net/anime/producer/11][b]Madhouse[/b][/url] or [url=https://myanimelist.net/anime/producer/145][b]TBS[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (176) Watch an anime adapted from a [b]Game[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (184) Watch an anime adapted from an [b]Other[/b] or [b]Web Novel[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#916247][b][size=190]COURSE #4[/size] 
+[size=140]FRIES: SHARED STAFF[/size][/b][/color][/center] [spoiler="Course #4"]
+
+[color=#916247][b]Staff #1 Used :[/b][/color]
+[color=#916247][b]Staff #2 Used :[/b][/color] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (15) Watch an anime with 2 to 6 episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (24) Watch an anime that began airing between Jan 1, 2015 and Dec 31, 2019
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (30) Watch an anime that started airing on a [b]Tuesday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (35) Watch an anime that started airing on a [b]Sunday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (42) Watch an anime that started airing in [b]July[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (53) Watch an anime that contains an English number (9, five) somewhere in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (57) Watch an anime that has 3 or more words in the main title starting with the same letter
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (64) Watch an anime that has a main title starting with C, D, or O
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (66) Watch an anime that has a main title starting with B, J, P, or U
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (78) Watch an anime with 150 or less favorites on MAL when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Favorites When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (81) Watch an anime with a popularity lower than #2026
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (102) Watch an anime that is from a Licensor/Producer/Studio starting with S
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (103) Watch an anime that is from a Licensor/Producer/Studio starting with T
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (145) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/19][b]Music[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (179) Watch an anime adapted from an [b]Unknown[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (191) Watch an [b]afternoon/evening[/b] anime (broadcast between [b]17:00 and 22:59[/b] JST)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#916247][b][size=190]COURSE #4[/size] 
+[size=140]ONIGIRI: 15 MINUTE OR LESS EPISODES[/size][/b][/color][/center] [spoiler="Course #4"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (5) Watch an anime recommended to you in the [url=https://myanimelist.net/forum/?topicid=2237155][b]AWC 2026 Participant Recs[/b][/url] thread
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Participant Rec Link:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (7) Watch an anime [u]after[/u] a 2026 participant has completed it for the current challenge
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:  | Item Used For:  | Link to Their Post:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (24) Watch an anime that began airing between Jan 1, 2015 and Dec 31, 2019
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (38) Watch an anime that started airing in [b]March[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (42) Watch an anime that started airing in [b]July[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (53) Watch an anime that contains an English number (9, five) somewhere in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (64) Watch an anime that has a main title starting with C, D, or O
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (66) Watch an anime that has a main title starting with B, J, P, or U
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (78) Watch an anime with 150 or less favorites on MAL when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Favorites When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (81) Watch an anime with a popularity lower than #2026
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (98) Watch an anime that is made by a Studio/Producer that starts with a letter in your MAL username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Studio/Producer:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (115) Watch an anime from [url=https://myanimelist.net/anime/producer/111][b]NHK[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (145) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/19][b]Music[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (179) Watch an anime adapted from an [b]Unknown[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (183) Watch an anime adapted from a [b]Music[/b], [b]Picture Book[/b] or [b]Web Manga[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (186) Watch a [url=https://anime.jhiday.net/hof/challenge/koreanchinese#challengeItems][b]Chinese or Korean[/b][/url] anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#916247][b][size=190]COURSE #4[/size] 
+[size=140]ONION RINGS: SHIRITORI CHAIN[/size][/b][/color][/center] [spoiler="Course #4"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (24) Watch an anime that began airing between Jan 1, 2015 and Dec 31, 2019
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (27) Watch an anime that began airing between Jan 1, 1990 and Dec 31, 1999
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (30) Watch an anime that started airing on a [b]Tuesday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (38) Watch an anime that started airing in [b]March[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (42) Watch an anime that started airing in [b]July[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (53) Watch an anime that contains an English number (9, five) somewhere in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (88) Watch an anime that is listed under [url=https://anidb.net/tag/6118][b]Eating Ramen[/b][/url], [url=https://anidb.net/tag/6100][b]Barbecue[/b][/url], or [url=https://anidb.net/tag/3233][b]Cooking Curry[/b][/url] on AniDB
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][List Used:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (103) Watch an anime that is from a Licensor/Producer/Studio starting with T
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (110) Watch an anime that is from a Licensor/Producer/Studio starting with C, Z, or a number/symbol
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (115) Watch an anime from [url=https://myanimelist.net/anime/producer/111][b]NHK[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (122) Watch an anime from [url=https://myanimelist.net/anime/producer/23][b]Bandai Visual[/b][/url], [url=https://myanimelist.net/anime/producer/166][b]Movic[/b][/url] or [url=https://myanimelist.net/anime/producer/247][b]Shin-Ei Animation[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (145) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/19][b]Music[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (160) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/58][b]Gore[/b][/url], [url=https://myanimelist.net/anime/genre/40][b]Psychological[/b][/url] or [url=https://myanimelist.net/anime/genre/79][b]Video Game[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (166) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/46][b]Award Winning[/b][/url], [url=https://myanimelist.net/anime/genre/52][b]CGDCT[/b][/url] or [url=https://myanimelist.net/anime/genre/41][b]Suspense[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (179) Watch an anime adapted from an [b]Unknown[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (191) Watch an [b]afternoon/evening[/b] anime (broadcast between [b]17:00 and 22:59[/b] JST)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#916247][b][size=190]COURSE #4[/size] 
+[size=140]GARLIC BREAD: R-17/R+/Rx RATING[/size][/b][/color][/center] [spoiler="Course #4"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (5) Watch an anime recommended to you in the [url=https://myanimelist.net/forum/?topicid=2237155][b]AWC 2026 Participant Recs[/b][/url] thread
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Participant Rec Link:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (7) Watch an anime [u]after[/u] a 2026 participant has completed it for the current challenge
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#943126][Participant:  | Item Used For:  | Link to Their Post:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (14) Watch a TV-type anime with an irregular release schedule (an ep released more than/less than 7 days after its previous ep)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (15) Watch an anime with 2 to 6 episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (24) Watch an anime that began airing between Jan 1, 2015 and Dec 31, 2019
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (30) Watch an anime that started airing on a [b]Tuesday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (35) Watch an anime that started airing on a [b]Sunday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (57) Watch an anime that has 3 or more words in the main title starting with the same letter
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (64) Watch an anime that has a main title starting with C, D, or O
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (78) Watch an anime with 150 or less favorites on MAL when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Favorites When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (81) Watch an anime with a popularity lower than #2026
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (90) Watch an anime that only has one main character
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (103) Watch an anime that is from a Licensor/Producer/Studio starting with T
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (110) Watch an anime that is from a Licensor/Producer/Studio starting with C, Z, or a number/symbol
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (137) Watch an anime that has only one Opening Theme and one Ending Theme listed on MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (160) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/58][b]Gore[/b][/url], [url=https://myanimelist.net/anime/genre/40][b]Psychological[/b][/url] or [url=https://myanimelist.net/anime/genre/79][b]Video Game[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#916247][b][size=190]COURSE #4[/size] 
+[size=140]THE MELON: STARTED AIRING BETWEEN 2011 AND 2020[/size][/b][/color][/center] [spoiler="Course #4"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (5) Watch an anime recommended to you in the [url=https://myanimelist.net/forum/?topicid=2237155][b]AWC 2026 Participant Recs[/b][/url] thread
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Participant Rec Link:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (14) Watch a TV-type anime with an irregular release schedule (an ep released more than/less than 7 days after its previous ep)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (15) Watch an anime with 2 to 6 episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (42) Watch an anime that started airing in [b]July[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (64) Watch an anime that has a main title starting with C, D, or O
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (81) Watch an anime with a popularity lower than #2026
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Popularity When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (87) Watch an anime with a score of 6.26 or below when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Score When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (90) Watch an anime that only has one main character
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (98) Watch an anime that is made by a Studio/Producer that starts with a letter in your MAL username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Studio/Producer:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (137) Watch an anime that has only one Opening Theme and one Ending Theme listed on MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (145) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/19][b]Music[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (166) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/46][b]Award Winning[/b][/url], [url=https://myanimelist.net/anime/genre/52][b]CGDCT[/b][/url] or [url=https://myanimelist.net/anime/genre/41][b]Suspense[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url] 
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (179) Watch an anime adapted from an [b]Unknown[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (180) Watch an anime adapted from a [b]4-koma Manga[/b] or [b]Novel[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (183) Watch an anime adapted from a [b]Music[/b], [b]Picture Book[/b] or [b]Web Manga[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (191) Watch an [b]afternoon/evening[/b] anime (broadcast between [b]17:00 and 22:59[/b] JST)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#916247][b][size=190]COURSE #4[/size] 
+[size=140]TOFU: MOVIES ONLY[/size][/b][/color][/center] [spoiler="Course #4"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (5) Watch an anime recommended to you in the [url=https://myanimelist.net/forum/?topicid=2237155][b]AWC 2026 Participant Recs[/b][/url] thread
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Participant Rec Link:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (24) Watch an anime that began airing between Jan 1, 2015 and Dec 31, 2019
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (27) Watch an anime that began airing between Jan 1, 1990 and Dec 31, 1999
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (38) Watch an anime that started airing in [b]March[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (42) Watch an anime that started airing in [b]July[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (53) Watch an anime that contains an English number (9, five) somewhere in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (64) Watch an anime that has a main title starting with C, D, or O
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (66) Watch an anime that has a main title starting with B, J, P, or U
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (78) Watch an anime with 150 or less favorites on MAL when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Favorites When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (87) Watch an anime with a score of 6.26 or below when you started watching it
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Score When Started:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (98) Watch an anime that is made by a Studio/Producer that starts with a letter in your MAL username
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Studio/Producer:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (103) Watch an anime that is from a Licensor/Producer/Studio starting with T
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (110) Watch an anime that is from a Licensor/Producer/Studio starting with C, Z, or a number/symbol
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#916247][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (145) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/19][b]Music[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (179) Watch an anime adapted from an [b]Unknown[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (186) Watch a [url=https://anime.jhiday.net/hof/challenge/koreanchinese#challengeItems][b]Chinese or Korean[/b][/url] anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#CA5C2B][b][size=190]COURSE #5[/size] 
+[size=140]CAKE: STARTED AIRING SAME YEAR[/size][/b][/color][/center] [spoiler="Course #5"]
+
+[color=#CA5C2B][b]Year #1 Used :[/b][/color]
+[color=#CA5C2B][b]Year #2 Used :[/b][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (13) Watch a Movie with a total duration of 1 hour 30 minutes or more
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (18) Watch an anime with 26 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (31) Watch an anime that started airing on a [b]Wednesday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (55) Watch an anime that has a main character’s name/nickname/alternative name in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (106) Watch an anime that is from a Licensor/Producer/Studio starting with E or P
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (127) Watch an anime from [url=https://myanimelist.net/anime/producer/48][b]AIC[/b][/url], [url=https://myanimelist.net/anime/producer/113][b]Kadokawa Shoten[/b][/url], [url=https://myanimelist.net/anime/producer/73][b]TMS Entertainment[/b][/url] or [url=https://myanimelist.net/anime/producer/119][b]VIZ Media[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (142) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/2][b]Adventure[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (156) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/55][b]Delinquents[/b][/url], [url=https://myanimelist.net/anime/genre/31][b]Super Power[/b][/url] or [url=https://myanimelist.net/anime/genre/76][b]Survival[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (158) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/57][b]Gag Humor[/b][/url], [url=https://myanimelist.net/anime/genre/35][b]Harem[/b][/url] or [url=https://myanimelist.net/anime/genre/78][b]Time Travel[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (178) Watch an anime adapted from an [b]Original[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (192) Watch a [b]late night[/b] anime (broadcast between [b]23:00 and 03:59[/b] JST)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#CA5C2B][b][size=190]COURSE #5[/size] 
+[size=140]ICE CREAM: SAME TYPE[/size][/b][/color][/center] [spoiler="Course #5"]
+
+[color=#CA5C2B][b]Type Used :[/b][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (4) Watch an anime recommended to you in the [url=https://myanimelist.net/forum/?topicid=2237153][b]AWC 2026 Staff Recs[/b][/url] thread by an active [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129][b]AWC Staff Member[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Staff Rec Link:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (40) Watch an anime that started airing in [b]May[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (65) Watch an anime that has a main title starting with F, I, or M
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (92) Watch an anime that has more main characters than supporting characters
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][# of Mains:  | # of Supporting:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (96) Watch an anime with a main character tagged with [url=https://www.anime-planet.com/characters/all?sort=title&order=asc&include_tags=341][b]Big Eaters[/b][/url] on Anime Planet
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (123) Watch an anime from [url=https://myanimelist.net/anime/producer/276][b]DLE[/b][/url], [url=https://myanimelist.net/anime/producer/1365][b]Shueisha[/b][/url] or [url=https://myanimelist.net/anime/producer/14][b]Sunrise[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (132) Watch an anime that can be found in the same public Interest Stack as one of your listed MAL favorite anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][MAL Favorite:   | Interest Stack:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (154) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/54][b]Combat Sports[/b][/url], [url=https://myanimelist.net/anime/genre/74][b]Love Status Quo[/b][/url] or [url=https://myanimelist.net/anime/genre/17][b]Martial Arts[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (158) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/57][b]Gag Humor[/b][/url], [url=https://myanimelist.net/anime/genre/35][b]Harem[/b][/url] or [url=https://myanimelist.net/anime/genre/78][b]Time Travel[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (172) Watch an anime tagged with 3 Genres or more
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (185) Watch an anime generated using [url=https://spin.moe/][b]Spin.moe[/b][/url] ([url=https://myanimelist.net/forum/?goto=post&topicid=1869539&id=71952295][b]Instructions[/b][/url])
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Screenshot:  ][/color]
+[/spoiler]
+
+[center][color=#CA5C2B][b][size=190]COURSE #5[/size] 
+[size=140]COOKIE: MAIN TITLE 5 WORDS OR LESS[/size][/b][/color][/center] [spoiler="Course #5"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (13) Watch a Movie with a total duration of 1 hour 30 minutes or more
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (26) Watch an anime that began airing between Jan 1, 2000 and Dec 31, 2009
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (60) Watch an anime that has a non-Japanese main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (116) Watch an anime from [url=https://myanimelist.net/anime/producer/97][b]ADV Films[/b][/url] or [url=https://myanimelist.net/anime/producer/376][b]Sentai Filmworks[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (138) Watch an anime with either 5+ Opening Themes or 5+ Ending Themes listed
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (142) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/2][b]Adventure[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (147) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/51][b]Anthropomorphic[/b][/url] or [url=https://myanimelist.net/anime/genre/18][b]Mecha[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (154) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/54][b]Combat Sports[/b][/url], [url=https://myanimelist.net/anime/genre/74][b]Love Status Quo[/b][/url] or [url=https://myanimelist.net/anime/genre/17][b]Martial Arts[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (165) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/64][b]Love Polygon[/b][/url], [url=https://myanimelist.net/anime/genre/69][b]Otaku Culture[/b][/url] or [url=https://myanimelist.net/anime/genre/29][b]Space[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (185) Watch an anime generated using [url=https://spin.moe/][b]Spin.moe[/b][/url] ([url=https://myanimelist.net/forum/?goto=post&topicid=1869539&id=71952295][b]Instructions[/b][/url])
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Screenshot:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (192) Watch a [b]late night[/b] anime (broadcast between [b]23:00 and 03:59[/b] JST)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#CA5C2B][b][size=190]COURSE #5[/size] 
+[size=140]APPLE PIE: MAIN TITLE STARTS WITH SAME LETTER[/size][/b][/color][/center] [spoiler="Course #5"]
+
+[color=#CA5C2B][b]Letter Used :[/b][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (4) Watch an anime recommended to you in the [url=https://myanimelist.net/forum/?topicid=2237153][b]AWC 2026 Staff Recs[/b][/url] thread by an active [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129][b]AWC Staff Member[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Staff Rec Link:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (31) Watch an anime that started airing on a [b]Wednesday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (75) Watch an anime that finished airing before starting the item and has [u]no[/u] Recommendations
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (101) Watch an anime that is from a Licensor/Producer/Studio starting with A
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (123) Watch an anime from [url=https://myanimelist.net/anime/producer/276][b]DLE[/b][/url], [url=https://myanimelist.net/anime/producer/1365][b]Shueisha[/b][/url] or [url=https://myanimelist.net/anime/producer/14][b]Sunrise[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (127) Watch an anime from [url=https://myanimelist.net/anime/producer/48][b]AIC[/b][/url], [url=https://myanimelist.net/anime/producer/113][b]Kadokawa Shoten[/b][/url], [url=https://myanimelist.net/anime/producer/73][b]TMS Entertainment[/b][/url] or [url=https://myanimelist.net/anime/producer/119][b]VIZ Media[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (142) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/2][b]Adventure[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (147) Watch an anime tagged with either [url=https://myanimelist.net/anime/genre/51][b]Anthropomorphic[/b][/url] or [url=https://myanimelist.net/anime/genre/18][b]Mecha[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (178) Watch an anime adapted from an [b]Original[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (188) Watch an anime that has been adapted to [url=https://myanimelist.net/clubs.php?cid=5450][b]live-action[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (192) Watch a [b]late night[/b] anime (broadcast between [b]23:00 and 03:59[/b] JST)
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#CA5C2B][b][size=190]COURSE #5[/size] 
+[size=140]MILK SHAKE: MC WITH UNNATURAL HAIR COLOR[/size][/b][/color][/center] [spoiler="Course #5"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (4) Watch an anime recommended to you in the [url=https://myanimelist.net/forum/?topicid=2237153][b]AWC 2026 Staff Recs[/b][/url] thread by an active [url=https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129][b]AWC Staff Member[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Staff Rec Link:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (26) Watch an anime that began airing between Jan 1, 2000 and Dec 31, 2009
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (41) Watch an anime that started airing in [b]June[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (55) Watch an anime that has a main character’s name/nickname/alternative name in the main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Character:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (67) Watch an anime that has a main title starting with E, R, T, or X
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (132) Watch an anime that can be found in the same public Interest Stack as one of your listed MAL favorite anime
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][MAL Favorite:   | Interest Stack:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (138) Watch an anime with either 5+ Opening Themes or 5+ Ending Themes listed
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (157) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/56][b]Educational[/b][/url], [url=https://myanimelist.net/anime/genre/82][b]Urban Fantasy[/b][/url] or [url=https://myanimelist.net/anime/genre/32][b]Vampire[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (165) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/64][b]Love Polygon[/b][/url], [url=https://myanimelist.net/anime/genre/69][b]Otaku Culture[/b][/url] or [url=https://myanimelist.net/anime/genre/29][b]Space[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (188) Watch an anime that has been adapted to [url=https://myanimelist.net/clubs.php?cid=5450][b]live-action[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (190) Watch an anime with no related anime listed
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[center][color=#CA5C2B][b][size=190]COURSE #5[/size] 
+[size=140]DANGO: STARTED AIRING 1999 OR EARLIER[/size][/b][/color][/center] [spoiler="Course #5"]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (18) Watch an anime with 26 or more episodes
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (31) Watch an anime that started airing on a [b]Wednesday[/b]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (49) Watch an anime that began airing the same [b]month[/b] (eg. July) you joined MAL
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Join Month:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (60) Watch an anime that has a non-Japanese main title
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (65) Watch an anime that has a main title starting with F, I, or M
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (67) Watch an anime that has a main title starting with E, R, T, or X
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (101) Watch an anime that is from a Licensor/Producer/Studio starting with A
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[color=#CA5C2B][Licensor/Producer/Studio:  ][/color]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (142) Watch an anime tagged with [url=https://myanimelist.net/anime/genre/2][b]Adventure[/b][/url]
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (172) Watch an anime tagged with 3 Genres or more
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (178) Watch an anime adapted from an [b]Original[/b] Source
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+
+[*][color=GRAY][Started: DATE] [Finished: DATE][/color] (190) Watch an anime with no related anime listed
+[url=https://myanimelist.net/anime/000]ANIME_TITLE[/url]
+[/spoiler]
+
+[/list][center][b][size=95]When posting this form I'm confirming that
+I have read the Rules, How to Participate, and the Challenge List with Explanations section in its entirety to the best of my abilities.[/size][/b][/center]
